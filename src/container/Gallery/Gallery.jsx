@@ -26,7 +26,7 @@ const Gallery = () => {
       <SubHeading title="Instagram" />
       <h1 className='headtext__cormorant'>Photo Gallery</h1>
       <p className="p__opensans" style={{color:'#AAA', marginTop:'2rem'}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat mattis ipsum turpis elit elit scelerisque egestas mu.</p>
-      <button type="button" className="custom__buton">View More</button>
+      <button type="button" className="custom__button">View More</button>
     </div>
     <div className="app__gallery-images">
       <div className="app__gallery-images_container" ref={scrollRef}>
